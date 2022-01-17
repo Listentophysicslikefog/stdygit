@@ -7,3 +7,5 @@
 建立本地分支和远程分支的追踪关系: git branch -u origin/dev_test dev_test
 
 test version 0.1
+
+test version 0.2
